@@ -1,12 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  images: {
-    domains: ["atimg.sonyunara.com", "attrangs.co.kr"],
-  },
-  experimental: {
-    scrollRestoration: true,
-  },
-};
+  swcMinify: true,
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
