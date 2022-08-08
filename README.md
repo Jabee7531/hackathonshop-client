@@ -7,7 +7,6 @@
 - Next.js
 - emotion
 - Recoil
--
 
 #### Server
 
