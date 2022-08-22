@@ -1,4 +1,5 @@
 <div align="center">
+  <h3>Hackathon Shop</h3>
   <h3>해커톤 쇼핑몰</h3>
 </div>
 <div align="center">
@@ -13,7 +14,22 @@
 <img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/>
 </div>
 
-# 요약
+# Description
+
+A template hackerton shop to quickly create a mall homepage.
+
+Take a look at Hackerton Shop and build your own shopping mall!
+
+</br>
+
+# License
+
+MIT License
+
+</br>
+</br>
+
+# 설명
 
 쇼핑몰 홈페이지를 빠르게 만들기 위한 템플릿 해커톤 숍 입니다.
 
