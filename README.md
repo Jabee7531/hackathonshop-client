@@ -22,10 +22,38 @@ Take a look at Hackerton Shop and build your own shopping mall!
 
 </br>
 
+# Quick Start Guide
+
+### 1. installation
+
+```bash
+git clone https://github.com/Jabee7531/hackathonshop-client.git
+cd hackathonshop-client
+yarn
+```
+
+### 2. set up `.env` file
+
+```
+NEXT_PUBLIC_BASE_URL = "your_server_url"
+NEXT_PUBLIC_GAPI_CLIENT_ID = "google_api_oauth_key"
+NEXT_PUBLIC_TOSS_PAYMENTS_KEY = "toss_payments_key"
+```
+
+### 3. start
+
+```
+yarn build
+yarn start
+```
+
+<br/>
+
 # License
 
 MIT License
 
+</br>
 </br>
 </br>
 
@@ -35,7 +63,34 @@ MIT License
 
 해커톤 숍을 참고 하여 자신만의 쇼핑몰을 만들어 보세요 !
 
-</br>
+<br/>
+
+# 빠른시작
+
+### 1. 설치하기
+
+```bash
+git clone https://github.com/Jabee7531/hackathonshop-client.git
+cd hackathonshop-client
+yarn
+```
+
+### 2. `.env`파일 설정
+
+```
+NEXT_PUBLIC_BASE_URL = "your_server_url"
+NEXT_PUBLIC_GAPI_CLIENT_ID = "google_api_oauth_key"
+NEXT_PUBLIC_TOSS_PAYMENTS_KEY = "toss_payments_key"
+```
+
+### 3. 시작하기
+
+```
+yarn build
+yarn start
+```
+
+<br/>
 
 # 라이센스
 
