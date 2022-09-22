@@ -167,7 +167,6 @@ const globalStyle = css`
   body {
     height: 100%;
     background: ${palette.grey["100"]};
-    font-family: "serif";
   }
   html {
     box-sizing: border-box;

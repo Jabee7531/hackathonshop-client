@@ -13,6 +13,7 @@ const IndexPage = () => {
       key="https://atimg.sonyunara.com/files/attrangs/new_banner/1658190483_0.jpg.webp"
       layout="fill"
       src="https://atimg.sonyunara.com/files/attrangs/new_banner/1658190483_0.jpg.webp"
+      priority
     />,
     <Image
       key="https://atimg.sonyunara.com/files/attrangs/new_banner/1658136241_0.jpg.webp"
