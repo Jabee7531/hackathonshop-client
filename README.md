@@ -49,6 +49,24 @@ yarn start
 
 <br/>
 
+# Performance Test
+
+- Test by [PageSpeed Insights](https://pagespeed.web.dev/)
+
+<img src="./public/locallight-after1.png"/>
+
+</br>
+
+# Stress Test
+
+- Test by [Artillery](https://www.artillery.io/) (100 users, 10 requests)
+
+<img src="./public/hksreport5.png"/>
+
+<img src="./public/hksreport5r.png"/>
+
+</br>
+
 # License
 
 MIT License
@@ -91,6 +109,24 @@ yarn start
 ```
 
 <br/>
+
+# 성능 테스트
+
+- [PageSpeed Insights](https://pagespeed.web.dev/)를 사용한 테스트 결과
+
+<img src="./public/locallight-after1.png"/>
+
+</br>
+
+# 스트레스 테스트
+
+- [Artillery](https://www.artillery.io/)을 사용한 테스트 결과(100명의 사용자, 10개의 요청)
+
+<img src="./public/hksreport5.png"/>
+
+<img src="./public/hksreport5r.png"/>
+
+</br>
 
 # 라이센스
 
